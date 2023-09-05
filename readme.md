@@ -6,11 +6,11 @@
 
 We began experimenting in a group with some pens and paper. First, Robin and I played Sprouts. We added an extra rule, allowing players to reuse free points from the old sprout on the paper, creating a huge abstract drawing that looked like a head:
 
- ![FirstSketch](content/day01/Sprout.webp)
+ ![FirstSketch](content/day01/Sprout.webp | width=100)
 
 In the group, we played "The Beach" for 30 minutes, and this was the result:
 
- ![SecondSketch](content/day01/theBeach.webp)
+ ![SecondSketch](content/day01/theBeach.webp | width=100)
 
 *A colorful dot paper*
 
@@ -20,16 +20,16 @@ In the group, we played "The Beach" for 30 minutes, and this was the result:
 
 I had used p5.js before, so I just had to get into it. I wanted to create a star with the Bezier (and help lines), circles, and finally, the arc functions.
 
- ![FirstDraw](/content/day01/sketch1.png)
- ![SecondDraw](/content/day01/sketch2.png)
+ ![FirstDraw](/content/day01/sketch1.png | width=100)
+ ![SecondDraw](/content/day01/sketch2.png | width=100)
 
 Then, I wanted to animate it and create a sky full of pink stars with random positions. I could experiment a lot, and it was a good exercise to remember how to use p5.js.
 
 Nice Fails:
 
- ![Fail1](content/day01/Postkarte.jpg)
- ![Fail2](content/day01/Star.webp)
- ![Fail3](content/day01/Star7.jpg)
+ ![Fail1](content/day01/Postkarte.jpg | width=100)
+ ![Fail2](content/day01/Star.webp | width=100)
+ ![Fail3](content/day01/Star7.jpg | width=100)
 
 To interact with my final artwork, you have to click on it. If you think there are enough stars, press the "n" key, and to save a picture, press "s."
 
