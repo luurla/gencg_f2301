@@ -6,11 +6,11 @@
 
 We began experimenting in a group with some pens and paper. First, Robin and I played Sprouts. We added an extra rule, allowing players to reuse free points from the old sprout on the paper, creating a huge abstract drawing that looked like a head:
 
- (content/day01/Sprout.webp)
+ (/content/day01/Sprout.webp)
 
 In the group, we played "The Beach" for 30 minutes, and this was the result:
 
- (content/day01/theBeach.webp)
+ (/content/day01/theBeach.webp)
 
 *A colorful dot paper*
 
@@ -20,8 +20,8 @@ In the group, we played "The Beach" for 30 minutes, and this was the result:
 
 I had used p5.js before, so I just had to get into it. I wanted to create a star with the Bezier (and help lines), circles, and finally, the arc functions.
 
- (content/day01/sketch1.png)
- (content/day01/sketch2.png)
+ (/content/day01/sketch1.png)
+ (/content/day01/sketch2.png)
 
 Then, I wanted to animate it and create a sky full of pink stars with random positions. I could experiment a lot, and it was a good exercise to remember how to use p5.js.
 
