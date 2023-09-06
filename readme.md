@@ -41,17 +41,3 @@ To interact with my final artwork, you have to click on it. If you think there a
 ## End Feelings of the Day:
 
 Satisfaction! I had a lot of fun, and I look forward to my project, even if I don't know exactly what I am going to do.
-
-
-* Lorem ipsum dolor sit amet
-* Consetetur sadipscing elitr, sed diam nonumy.
-* At vero eos et accusam et justo duo dolores et ea rebum. 
-
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
