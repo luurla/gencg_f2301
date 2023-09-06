@@ -1,43 +1,29 @@
 # Day 02
 
-## Computing without computer
+## Iterative Patterns
 
-### Solid Paper Experiment
+I started by creating lines, but somehow my idea shifted to eyes.
 
-We began experimenting in a group with some pens and paper. First, Robin and I played Sprouts. We added an extra rule, allowing players to reuse free points from the old sprout on the paper, creating a huge abstract drawing that looked like a head:
+ <img src="content/day01/sketch.webp" alt="drawing" width="500"/>
 
- ![FirstSketch](content/day01/Sprout.webp=550x550px)
+I experimented a lot but encountered problems with the rotation.
+Here are some nice failures:
 
-In the group, we played "The Beach" for 30 minutes, and this was the result:
+ <img src="content/day01/DAY2/fail1.png" alt="drawing" width="29%"/>
+ <img src="content/day01/DAY2/fail2.png" alt="drawing" width="33%"/>
+  <img src="content/day01/DAY2/fail3.png" alt="drawing" width="33%"/>
 
- ![SecondSketch](content/day01/theBeach.webp)
+### A variation as a GIF:
 
-*A colorful dot paper*
+<img src="content/day01/DAY2/EW3-min.gif" alt="drawing" width="63%"/>
 
-## Computing with computer
-
-### Draw, then Code
-
-I had used p5.js before, so I just had to get into it. I wanted to create a star with the Bezier (and help lines), circles, and finally, the arc functions.
-
- ![FirstDraw](/content/day01/sketch1.png)
- ![SecondDraw](/content/day01/sketch2.png)
-
-Then, I wanted to animate it and create a sky full of pink stars with random positions. I could experiment a lot, and it was a good exercise to remember how to use p5.js.
-
-Nice Fails:
-
- ![Fail1](content/day01/Postkarte.jpg)
- ![Fail2](content/day01/Star.webp)
- ![Fail3](content/day01/Star7.jpg)
-
-To interact with my final artwork, you have to click on it. If you think there are enough stars, press the "n" key, and to save a picture, press "s."
+### The end result:
 
 {% raw %}
-<iframe src="https://editor.p5js.org/PerlaH/full/y8b-ywLwn" width="100%" height="450" frameborder="no"></iframe>
+<iframe src="https://editor.p5js.org/PerlaH/full/vMejYwLEw" width="100%" height="450" frameborder="no"></iframe>
 {% endraw %}
 
 
 ## End Feelings of the Day:
 
-Satisfaction! I had a lot of fun, and I look forward to my project, even if I don't know exactly what I am going to do.
+I had some difficulties creating the initial idea, but I'm very happy with how it turned out in the end.
