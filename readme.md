@@ -6,7 +6,8 @@
 
 We began experimenting in a group with some pens and paper. First, Robin and I played Sprouts. We added an extra rule, allowing players to reuse free points from the old sprout on the paper, creating a huge abstract drawing that looked like a head:
 
- ![FirstSketch](content/day01/Sprout.webp=550x550px)
+
+ <img src="content/day01/Sprout.webp" alt="drawing" width="200"/>
 
 In the group, we played "The Beach" for 30 minutes, and this was the result:
 
