@@ -1,25 +1,31 @@
 
 # Day 04
 
-## Clock
+## Drawing Machines
 
-Today, I Created My First Clock with Code.
-I began by sketching my ideas on paper and then watched a tutorial on how to use clock functions.
+Today's challenge was to create a drawing machine. Initially, I interpreted it as a code-based paint tool where we could draw with the mouse or something similar. However, I soon realized that the concept of a drawing machine went beyond a simple "paint function."
 
 <img src="content/day01/Day3/sketchDay4.webp" alt="drawing" width="350"/>
 <img src="content/day01/Day3/myClock.gif" alt="drawing" width="350"/>
 
-My first clock turned out to be a bit plain but colorful. I played with the blend mode, which created some interesting glitches:
-
-<img src="content/day01/Day3/glich1.png" alt="drawing" width="45%"/>
-<img src="content/day01/Day3/glich2.png" alt="drawing" width="45%"/>
-
-The end result of this clock is:
+So, I attempted to create abstract random figures so that each time it would change its form.
 
 {% raw %}
 <iframe src="https://editor.p5js.org/PerlaH/full/O8TLv4zP5" width="100%" height="600" frameborder="no"></iframe>
 {% endraw %}
 
-## End Feelings of the Day:
+{% raw %}
+<iframe src="https://editor.p5js.org/PerlaH/full/632FXL22L" width="100%" height="600" frameborder="no"></iframe>
+{% endraw %}
 
-Today didn't go as smoothly as I'd hoped. I attempted to code my sketch, but I wasn't entirely sure where to start, and I ended up wasting a lot of time.
+{% raw %}
+<iframe src="https://editor.p5js.org/PerlaH/full/HATxzNqNq" width="100%" height="600" frameborder="no"></iframe>
+{% endraw %}
+
+{% raw %}
+<iframe src="https://editor.p5js.org/PerlaH/full/o3znRtW9B" width="100%" height="600" frameborder="no"></iframe>
+{% endraw %}
+
+
+## End Feelings of the Day:
+In the end, I think I mixed the initial concept with the task at hand.
