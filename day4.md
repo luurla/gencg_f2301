@@ -33,5 +33,10 @@ So, I attempted to create abstract random figures so that each time it would cha
 <iframe src="https://editor.p5js.org/PerlaH/full/O8TLv4zP5" width="100%" height="600" frameborder="no"></iframe>
 {% endraw %}
 
+<img src="content/day01/Day4/XDrawFlower.png" alt="drawing" width="32%"/>
+<img src="content/day01/Day4/XDrawFlower6.png" alt="drawing" width="32%"/>
+<img src="content/day01/Day4/XDrawFlower9.png" alt="drawing" width="32%"/>
+
+
 ## End Feelings of the Day:
 In the end, I think I mixed the initial concept with the task at hand.
