@@ -14,7 +14,7 @@ Today's challenge was to create a drawing machine. Initially, I interpreted it a
 So, I attempted to create abstract random figures so that each time it would change its form.
 
 {% raw %}
-<iframe src="https://editor.p5js.org/PerlaH/full/HATxzNqNq" width="100%" height="600" frameborder="no"></iframe>
+<iframe src="https://editor.p5js.org/PerlaH/full/HATxzNqNq" width="100%" height="100%" frameborder="no"></iframe>
 {% endraw %}
 
 <img src="content/day01/Day4/XDraw-bird.jpg" alt="drawing" width="32%"/>
@@ -22,7 +22,7 @@ So, I attempted to create abstract random figures so that each time it would cha
 <img src="content/day01/Day4/XDraw-bird3.jpg" alt="drawing" width="32%"/>
 
 {% raw %}
-<iframe src="https://editor.p5js.org/PerlaH/full/o3znRtW9B" width="100%" height="600" frameborder="no"></iframe>
+<iframe src="https://editor.p5js.org/PerlaH/full/o3znRtW9B" width="100%" height="100%" frameborder="no"></iframe>
 {% endraw %}
 
 <img src="content/day01/Day4/XDraw-Circle.jpg" alt="drawing" width="32%"/>
@@ -30,7 +30,7 @@ So, I attempted to create abstract random figures so that each time it would cha
 <img src="content/day01/Day4/XDraw-Circle4.jpg" alt="drawing" width="32%"/>
 
 {% raw %}
-<iframe src="https://editor.p5js.org/PerlaH/full/O8TLv4zP5" width="100%" height="600" frameborder="no"></iframe>
+<iframe src="https://editor.p5js.org/PerlaH/full/O8TLv4zP5" width="100%" height="100%" frameborder="no"></iframe>
 {% endraw %}
 
 <img src="content/day01/Day4/XDrawFlower.png" alt="drawing" width="27.5%"/>
