@@ -16,7 +16,7 @@ My first clock turned out to be a bit plain but colorful. I played with the blen
 The end result of this clock is:
 
 {% raw %}
-<iframe src="https://editor.p5js.org/PerlaH/full/mZvKfVr7a" width="50%" height="440" frameborder="no"></iframe>
+<iframe src="https://editor.p5js.org/PerlaH/full/mZvKfVr7a" width="100%" height="440" frameborder="no"></iframe>
 {% endraw %}
 
 ## End Feelings of the Day:

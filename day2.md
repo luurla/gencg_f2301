@@ -20,7 +20,7 @@ Here are some nice failures:
 ### The end result:
 
 {% raw %}
-<iframe src="https://editor.p5js.org/PerlaH/full/vMejYwLEw" width="80%" height="450" frameborder="no"></iframe>
+<iframe src="https://editor.p5js.org/PerlaH/full/vMejYwLEw" width="100%" height="500" frameborder="no"></iframe>
 {% endraw %}
 
 
