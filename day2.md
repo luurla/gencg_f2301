@@ -4,18 +4,18 @@
 
 I started by creating lines, but somehow my idea shifted to eyes.
 
- <img src="content/day01/sketch.webp" alt="drawing" width="500"/>
+ <img src="content/day01/sketch.webp" alt="drawing" width="100%"/>
 
 I experimented a lot but encountered problems with the rotation.
 Here are some nice failures:
 
- <img src="content/day01/DAY2/fail1.png" alt="drawing" width="29%"/>
- <img src="content/day01/DAY2/fail2.png" alt="drawing" width="33%"/>
-  <img src="content/day01/DAY2/fail3.png" alt="drawing" width="33%"/>
+ <img src="content/day01/DAY2/fail1.png" alt="drawing" width="29.5%"/>
+ <img src="content/day01/DAY2/fail2.png" alt="drawing" width="33.5%"/>
+  <img src="content/day01/DAY2/fail3.png" alt="drawing" width="33.5%"/>
 
 ### A variation as a GIF:
 
-<img src="content/day01/DAY2/EW3-min.gif" alt="drawing" width="63%"/>
+<img src="content/day01/DAY2/EW3-min.gif" alt="drawing" width="100%%" />
 
 ### The end result:
 
