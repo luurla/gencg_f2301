@@ -18,15 +18,11 @@ In the group, we played "The Beach" for 30 minutes, and this was the result:
 
 ### Draw, then Code
 
-I had used p5.js before, so I just had to get into it. I wanted to create a star with the Bezier (and help lines), circles, and finally, the arc functions.
+<iframe src="https://editor.p5js.org/PerlaH/full/y8b-ywLwn" width="100%" height="450" frameborder="no"></iframe>
 
 
- <img src="content/day01/sketch1.png" alt="drawing" width="40%"/> <img src="content/day01/sketch2.png" alt="drawing" width="40%"/>
- 
 
-Then, I wanted to animate it and create a sky full of pink stars with random positions. I could experiment a lot, and it was a good exercise to remember how to use p5.js.
-
-Nice Fails:
+## Computing with computer
 
 <img src="content/day01/Postkarte.jpg" alt="drawing" width="30%"/>
 <img src="content/day01/Star.webp" alt="drawing" width="30%"/>
