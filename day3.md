@@ -5,13 +5,13 @@
 Today, I Created My First Clock with Code.
 I began by sketching my ideas on paper and then watched a tutorial on how to use clock functions.
 
-<img src="Day3/content/sketchDay4.webp" alt="drawing" width="350"/>
-<img src="Day3/content/myClock.gif" alt="drawing" width="350"/>
+<img src="Day3/content/sketchDay4.webp" alt="drawing" width="51%"/>
+<img src="Day3/content/myClock.gif" alt="drawing" width="45%"/>
 
 My first clock turned out to be a bit plain but colorful. I played with the blend mode, which created some interesting glitches:
 
-<img src="Day3/content/glich1.png" alt="drawing" width="45%"/>
-<img src="Day3/content/glich2.png" alt="drawing" width="45%"/>
+<img src="Day3/content/glich1.png" alt="drawing" width="46.5%"/>
+<img src="Day3/content/glich2.png" alt="drawing" width="50%"/>
 
 The end result of the Clock is:
 
