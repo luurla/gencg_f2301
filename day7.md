@@ -29,6 +29,8 @@ width="100%" height="750" frameborder="no"></iframe>
 
 In the subsequent experiments, I moved pixels with the mouse, altering their color and shape.
 
+<img src="Day7/pixel1min.gif" alt="drawing" width="30%"/>
+
 
 {% raw %}
 <iframe src="https://editor.p5js.org/PerlaH/full/69Fuaf7D_"
