@@ -21,7 +21,6 @@ function draw() {
 }
 ```
 
-
 {% raw %}
 <iframe src="https://editor.p5js.org/PerlaH/full/7fHhpQjoN" 
 width="100%" height="750" frameborder="no"></iframe>
@@ -30,6 +29,7 @@ width="100%" height="750" frameborder="no"></iframe>
 In the subsequent experiments, I moved pixels with the mouse, altering their color and shape.
 
 <img src="Day7/pixel1min.gif" alt="drawing" width="30%"/>
+<img src="Day7/pixel2min.gif" alt="drawing" width="30%"/>
 
 
 {% raw %}
