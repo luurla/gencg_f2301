@@ -30,7 +30,7 @@ In the subsequent experiments, I moved pixels with the mouse, altering their col
 
 <img src="Day7/pixel1min.gif" alt="drawing" width="30%"/>
 <img src="Day7/pixel2min.gif" alt="drawing" width="30%"/>
-
+<img src="Day7/pixel3min.gif" alt="drawing" width="30%"/>
 
 {% raw %}
 <iframe src="https://editor.p5js.org/PerlaH/full/69Fuaf7D_"
