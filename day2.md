@@ -10,9 +10,9 @@ I experimented a lot but encountered problems with the rotation.
 
 Here are some nice failures:
 
- <img src="Day2/content/fail1.png" alt="drawing" width="29.5%"/>
- <img src="Day2/content/fail2.png" alt="drawing" width="33.5%"/>
-  <img src="Day2/content/fail3.png" alt="drawing" width="33.5%"/>
+<img src="Day2/content/fail1.png" alt="drawing" width="29.5%"/>
+<img src="Day2/content/fail2.png" alt="drawing" width="33.5%"/>
+<img src="Day2/content/fail3.png" alt="drawing" width="33.5%"/>
 
 ### A variation as a GIF:
 

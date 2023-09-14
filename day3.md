@@ -5,20 +5,24 @@
 Today, I Created My First Clock with Code.
 I began by sketching my ideas on paper and then watched a tutorial on how to use clock functions.
 
-<img src="content/day01/Day3/sketchDay4.webp" alt="drawing" width="350"/>
-<img src="content/day01/Day3/myClock.gif" alt="drawing" width="350"/>
+<img src="Day3/content/sketchDay4.webp" alt="drawing" width="350"/>
+<img src="Day3/content/myClock.gif" alt="drawing" width="350"/>
 
 My first clock turned out to be a bit plain but colorful. I played with the blend mode, which created some interesting glitches:
 
-<img src="content/day01/Day3/glich1.png" alt="drawing" width="45%"/>
-<img src="content/day01/Day3/glich2.png" alt="drawing" width="45%"/>
+<img src="Day3/content/glich1.png" alt="drawing" width="45%"/>
+<img src="Day3/content/glich2.png" alt="drawing" width="45%"/>
 
-The end result of this clock is:
+The end result of the Clock is:
 
 {% raw %}
 <iframe src="https://editor.p5js.org/PerlaH/full/mZvKfVr7a" width="100%" height="440" frameborder="no"></iframe>
 {% endraw %}
 
-## End Feelings of the Day:
+## Problems and Ideas to Work On:
 
-Today didn't go as smoothly as I'd hoped. I attempted to code my sketch, but I wasn't entirely sure where to start, and I ended up wasting a lot of time.
+I believe my clock-box idea has potential. I initially started with the code, but it doesn't currently perform a specific rational function. Nonetheless, I may choose to continue working on it.
+
+{% raw %}
+<iframe src="https://editor.p5js.org/PerlaH/full/pa41T2aCg" width="100%" height="500" frameborder="no"></iframe>
+{% endraw %}
