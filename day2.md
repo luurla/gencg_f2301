@@ -4,7 +4,8 @@
 
 I started by creating lines, but somehow my idea shifted to eyes.
 
- <img src="Day2/content/sketch.webp" alt="drawing" width="100%"/>
+ <img src="Day2/content/sketch.webp" alt="drawing" width="50%"/>
+ <img src="Day2/content/image_480.png" alt="drawing" width="43%"/>
 
 I experimented a lot but encountered problems with the rotation.
 
