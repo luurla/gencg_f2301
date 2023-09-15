@@ -20,7 +20,7 @@ In the group, we played "The Beach" for 30 minutes, and this was the result:
 
 I had used p5.js before, so I just had to get into it. I wanted to create a star with the Bezier (and help lines), circles, and finally, the arc functions.
 
- <img src="content/day01/sketch1.png" alt="drawing" width="46%"/> <img src="content/sketch2.png" alt="drawing" width="49.5%"/>
+ <img src="content/day01/sketch1.png" alt="drawing" width="46%"/> <img src="content/day01/sketch2.png" alt="drawing" width="49.5%"/>
  
 
 Then, I wanted to animate it and create a sky full of pink stars with random positions. I could experiment a lot, and it was a good exercise to remember how to use p5.js.

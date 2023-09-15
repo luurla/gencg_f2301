@@ -29,7 +29,7 @@ So, I attempted to create abstract random figures so that each time it would cha
 <img src="Day4/XDraw-Circle4.jpg" alt="drawing" width="32%"/>
 
 {% raw %}
-<iframe src="https://editor.p5js.org/PerlaH/full/O8TLv4zP5" width="100%" height="350" frameborder="no"></iframe>
+<iframe src="https://editor.p5js.org/PerlaH/full/O8TLv4zP5" width="100%" height="500" frameborder="no"></iframe>
 {% endraw %}
 
 <img src="Day4/XDrawFlower.png" alt="drawing" width="27.5%"/>

@@ -21,7 +21,6 @@ Here are some nice failures:
 I created a grid for the "ojo" function, which was challenging to make fill the entire canvas.  
 
 ```js
-// Javascript code with syntax highlighting.
 for (var x = 50; x < width*1.5; x += 50) {
     for (var y = 50; y < height*1.5; y += 50) {
       ojo(x, y);
@@ -32,7 +31,6 @@ for (var x = 50; x < width*1.5; x += 50) {
 The eye consists of a rotated rectangle with rounded corners and a circular pupil. I used 'frameCount' and 'sin' to smoothly increase and decrease its size harmoniously. 
 
 ```js
-// Javascript code with syntax highlighting.
 function ojo(_x, _y) {
   push();
 
@@ -56,10 +54,6 @@ function ojo(_x, _y) {
 
 {% raw %}
 <iframe src="https://editor.p5js.org/PerlaH/full/eQWlKQm2E" width="100%" height="500" frameborder="no"></iframe>
-{% endraw %}
-
-{% raw %}
-<iframe src="https://editor.p5js.org/PerlaH/full/vMejYwLEw" width="100%" height="500" frameborder="no"></iframe>
 {% endraw %}
 
 
